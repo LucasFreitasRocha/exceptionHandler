@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.github.lucasfreitasrocha</groupId>
     <artifactId>handlerexception</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>handlerexception</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -81,10 +81,11 @@
                 <extensions>true</extensions>
                 <configuration>
                     <serverId>ossrh</serverId>
-                    <nexusUrl>https://oss.sonatype.org/</nexusUrl>
+                    <nexusUrl>https://s01.oss.sonatype.org/</nexusUrl>
                     <autoReleaseAfterClose>true</autoReleaseAfterClose>
                 </configuration>
             </plugin>
+
 
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
