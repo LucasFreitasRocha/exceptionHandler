@@ -9,7 +9,7 @@
     </parent>
     <groupId>io.github.lucasfreitasrocha</groupId>
     <artifactId>handlerexception</artifactId>
-    <version> 0.0.4-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>handlerexception</name>
     <description>Demo project for Spring Boot</description>
     <properties>
