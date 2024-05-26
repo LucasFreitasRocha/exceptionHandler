@@ -47,8 +47,8 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/LucasFreitasRocha/exceptionhandler.git</connection>
-        <developerConnection>scm:git:ssh://github.com:LucasFreitasRocha/exceptionhandler.git</developerConnection>
+        <connection>scm:git:https://github.com/LucasFreitasRocha/exceptionhandler.git</connection>
+        <developerConnection>scm:git:https://github.com/LucasFreitasRocha/exceptionhandler.git</developerConnection>
         <url>https://github.com/LucasFreitasRocha/exceptionhandler</url>
     </scm>
     <dependencies>
